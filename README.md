@@ -1,3 +1,4 @@
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE.txt) [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/ro31337/libretaxi)
 # LibreTaxi, open source alternative for Uber/Lyft
 
 LibreTaxi makes taxis affordable again by completely removing all layers in between. Passengers pay with cash and get connected with drivers directly, where LibreTaxi is a thin layer allowing to negotiate the price before order is confirmed. No registration/approval is required. Less regulations.
